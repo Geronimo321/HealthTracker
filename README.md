@@ -18,4 +18,4 @@ I want to focus on the front-end aspect especially with the calendar components 
 
 + Upload Sleep time, Meals, Excercise, and Mood each day.
 + Keep record of these over time using a calendar to be able to look at your history.
-+ A visualazation of stats over time through some sort of graph (tbd). 
++ A visualization of stats over time through some sort of graph (tbd). 
